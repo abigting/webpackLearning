@@ -1,0 +1,32 @@
+{
+  "name": "webpacklearning",
+  "version": "1.0.0",
+  "description": "learing webpack note",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abigting/webpackLearning.git"
+  },
+  "keywords": [
+    "learn",
+    "webpack"
+  ],
+  "author": "Fiona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abigting/webpackLearning/issues"
+  },
+  "homepage": "https://github.com/abigting/webpackLearning#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "style-loader": "^1.1.3"
+  }
+}
