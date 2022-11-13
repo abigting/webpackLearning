@@ -24,7 +24,7 @@
   "homepage": "https://github.com/abigting/webpackLearning#readme",
   "devDependencies": {
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "style-loader": "^1.1.3"
